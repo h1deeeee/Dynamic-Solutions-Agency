@@ -6,4 +6,4 @@ Description of the project
 
 - [Design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
 
--if you click on the menu in the header on the right, a menu opens
+-The header has a slider and two buttons, when you click one of them, the slides will scroll through. Also, with a resolution of up to 1024 pixels in width, a menu button will be available in the top left of the header; when you click, a menu will open.
